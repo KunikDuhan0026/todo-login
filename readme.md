@@ -32,17 +32,7 @@
 ---
 
 
-## Planning
 
-### Frontend planning
-
-![pic1](./Frontend_Plan.png)
-
----
-
-### Backend planning
-
-![pic2](./Backend_Plan.png)
 
 ### After Implementation shots
 
