@@ -57,6 +57,5 @@
 ## Live Links
 
 - Front end...
-  [Vercel](https://auth-todo-list-mern.vercel.app/)
-- Back end...
-  [Railway](https://auth-todo-list-mern-production-e11d.up.railway.app/)
+  [Vercel](https://kunik-todo-login-front.vercel.app/)
+
