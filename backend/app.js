@@ -13,7 +13,7 @@ const auth = require("./middleware/auth");
 app.use(cors({
   credentials : true,
  method : ["POST","GET"],
-  origin : ["https://auth-todo-list-mern.vercel.app"]
+  origin : ["https://kunik-todo-login-api.vercel.app"]
 }));
 app.use(cookieParser())
 app.use(express.json());
