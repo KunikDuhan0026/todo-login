@@ -12,7 +12,8 @@ const auth = require("./middleware/auth");
  
 app.use(cors({
   credentials : true,
-  origin : "https://auth-todo-list-mern.vercel.app"
+ method : ["POST","GET"],
+  origin : ["https://auth-todo-list-mern.vercel.app"]
 }));
 app.use(cookieParser())
 app.use(express.json());
